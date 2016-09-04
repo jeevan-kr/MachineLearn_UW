@@ -6,4 +6,7 @@ octave*/*
 amazon_baby.gl/*
 amazon*
 home*/*
-
+*/image_train_data/*
+*/image_test_data/*
+__*/*
+__*
